@@ -1,0 +1,2 @@
+news, edge, error, cent, holiday, shake, hair, snakes, toad, window, space, cemetery, fang, chance, development, spy
+0, 0, 1, 0, G, 1, -32135.970703, ffffffffffffffc1, 1, -1, 28451, quiet, 0.007812, 209, -0.001250, 3264

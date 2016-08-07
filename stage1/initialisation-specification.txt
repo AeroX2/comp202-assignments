@@ -1,0 +1,18 @@
+The initial values of the record fields are as follows.
+ 
+The 'news' field should be initialised to 0  
+The 'edge' field should be initialised to 0  
+The 'error' field should be initialised to 1  
+The 'cent' field should be initialised to 0  
+The 'holiday' field should be initialised to the character 'G'
+The 'shake' field should be initialised to 1  
+The 'hair' field should be initialised to -32135.970703  
+The 'snakes' field should be initialised to decimal -63  
+The 'toad' field should be initialised to 1  
+The 'window' field should be initialised to decimal -1  
+The 'space' field should be initialised to decimal 28451  
+The 'cemetery' field should be initialised to the string "quiet"
+The 'fang' field should be initialised to 0.007812  
+The 'chance' field should be initialised to decimal value 209 written as octal  
+The 'development' field should be initialised to -0.001250  
+The 'spy' field should be initialised to decimal number 3264 converted to hexadecimal  

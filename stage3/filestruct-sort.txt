@@ -1,0 +1,19 @@
+
+Sorting order (in order of precedence):
+ 
+spy in ascending order. 
+edge in ascending order. 
+window in descending order. 
+cent in ascending order. 
+snakes in descending order. 
+shake in ascending order. 
+cemetery in descending order. 
+news in descending order. 
+hair in ascending order. 
+development in descending order. 
+toad in ascending order. 
+error in descending order. 
+chance in ascending order. 
+space in ascending order. 
+fang in descending order. 
+holiday in ascending order. 
