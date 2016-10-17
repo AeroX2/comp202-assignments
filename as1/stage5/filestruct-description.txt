@@ -1,0 +1,18 @@
+Each record in your data files contains the following fields in the following order.
+
+The field 'news' is a sixteen bit Boolean 
+The field 'edge' is a sixteen bit Boolean 
+The field 'error' is an eight bit Boolean 
+The field 'cent' is a thirty two bit Boolean 
+The field 'holiday' is an eight bit character 
+The field 'shake' is an eight bit Boolean 
+The field 'hair' is a thirty two bit floating point number 
+The field 'snakes' is a sixty four bit integer 
+The field 'toad' is an eight bit Boolean 
+The field 'window' is an eight bit integer 
+The field 'space' is a sixteen bit unsigned integer 
+The field 'cemetery' is a fixed-length string holding at most 10 characters (including terminating nulls) 
+The field 'fang' is a sixty four bit floating point number 
+The field 'chance' is a sixty four bit unsigned integer 
+The field 'development' is a sixty four bit floating point number 
+The field 'spy' is a thirty two bit unsigned integer 

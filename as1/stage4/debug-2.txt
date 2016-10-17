@@ -1,0 +1,4 @@
+news, edge, error, cent, holiday, shake, hair, snakes, toad, window, space, cemetery, fang, chance, development, spy
+1, 1, 1, 1, r, 0, -38006.550781, e5, 1, -3, 2, system, 0.003906, 8, 0.881999, 6
+1, 1, 0, 1, G, 1, 2811.128418, 8, 1, -8, 208, stream, -0.621094, 60, -51.221569, 44
+1, 1, 1, 1, o, 0, -136.324707, 15, 1, 3, 535, bears, -0.039062, 21, -95.392868, 167
